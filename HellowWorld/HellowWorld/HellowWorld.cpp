@@ -6,6 +6,8 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	printf("aa");
+	printf("aaaaaaaaaaa");
 	printf("HellowWorld");
 	return 0;
 }
